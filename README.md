@@ -12,7 +12,7 @@ Ce repertoire comprend :
 
 - MNT : un dossier comprenant les 3 MNT generes a partir des donnees multifaisceau et utilises lors des traitements.
 
-- QGIS_Shapefile : un dossier comprenant un certain nombre de fichiers shapefile utiles et des fichiers de style QGIS.
+- QGIS_Shapefile : un dossier comprenant des fichiers shapefile utiles et des fichiers de style QGIS.
 
 - Scripts_Python : un dossier rassemblant l'ensemble des scripts Python implementes et codes pendant ce projet.
 
